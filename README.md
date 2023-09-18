@@ -38,11 +38,7 @@ The CSS Border Generator is a web-based project built using HTML, CSS, and JavaS
 
 * The project is built with a responsive design, ensuring that it works seamlessly on various screen sizes and devices.
 
- 
 
-##Responsive Design:##
-
-* The project is built with a responsive design, ensuring that it works seamlessly on various screen sizes and devices.
 
 By creating the CSS Border Generator project with HTML, CSS, and JavaScript and hosting it on GitHub, you are providing a valuable tool for web developers and designers to streamline the process of creating customized border styles for their web projects while fostering collaboration and improvement through an open-source community.
 
