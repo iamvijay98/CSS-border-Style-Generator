@@ -34,10 +34,11 @@ The CSS Border Generator is a web-based project built using HTML, CSS, and JavaS
 
 * To make it convenient for users, the CSS code for the generated border style is displayed and can be copied to the clipboard with a single click.
 
-## Responsive Design:
+**Responsive Design:**
 
-* Ensuring that the app is responsive on various devices and screen sizes is crucial.
-* React components can be designed to adapt and reflow content to provide an optimal user experience on both desktop and mobile devices. 
+* The project is built with a responsive design, ensuring that it works seamlessly on various screen sizes and devices.
+
+ 
 
 ##Responsive Design:##
 
