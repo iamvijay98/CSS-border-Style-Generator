@@ -48,7 +48,8 @@ By creating the CSS Border Generator project with HTML, CSS, and JavaScript and 
 
 ![127 0 0 1_5500_CSS-border-Style-Generator_index html (1)](https://github.com/iamvijay98/CSS-border-Style-Generator/assets/133564952/d10d0a8b-9488-49a9-83b4-367b2dee1246)
 
-![127 0 0 1_5500_CSS-border-Style-Generator_index html(iPhone 12 Pro)](https://github.com/iamvijay98/CSS-border-Style-Generator/assets/133564952/6a49e8a4-295b-407b-8718-6af1307c786b)
+![Screenshot (82)](https://github.com/iamvijay98/CSS-border-Style-Generator/assets/133564952/7c49db7b-16e3-4b47-9897-2fa5f64cd1d1)
+
 
 
 
