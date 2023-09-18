@@ -14,7 +14,7 @@ The CSS Border Generator is a web-based project built using HTML, CSS, and JavaS
 
 *  The CSS Border Generator provides an intuitive and user-friendly interface that allows users to easily customize and preview various border styles for their web elements.
   
-**Border Style Options:**
+**Border Style Options⚡:**
 
 *  Users can select from a wide range of border style options, including solid, dashed, dotted, double, groove, ridge, inset, and outset.
   
@@ -26,15 +26,15 @@ The CSS Border Generator is a web-based project built using HTML, CSS, and JavaS
 
 * Users can set the border width using a slider or input field, providing real-time visual feedback as they make adjustments.
 
-**Preview Panel:**
+**Preview Panel🔧:**
 
 * As users make changes to the border style, color, and width a preview panel displays the result in real-time, helping them visualize the final border style.
 
-**Copy CSS Code:**
+**Copy CSS Code📤:**
 
 * To make it convenient for users, the CSS code for the generated border style is displayed and can be copied to the clipboard with a single click.
 
-**Responsive Design:**
+**Responsive Design🤗 :**
 
 * The project is built with a responsive design, ensuring that it works seamlessly on various screen sizes and devices.
 
